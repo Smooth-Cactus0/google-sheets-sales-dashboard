@@ -1,0 +1,61 @@
+Date,Region,Product Category,Product,Sales Rep,Units Sold,Unit Price,Revenue,Cost,Customer Type
+2024-01-03,North,Electronics,Laptop Pro,Sarah Chen,4,1299,5196,3116,Business
+2024-01-05,South,Electronics,Wireless Headphones,Mike Johnson,12,199,2388,1433,Consumer
+2024-01-07,East,Home Goods,Smart Thermostat,Emily Davis,8,249,1992,1195,Consumer
+2024-01-08,West,Electronics,Tablet Air,James Wilson,6,599,3594,2156,Business
+2024-01-10,North,Apparel,Winter Jacket,Sarah Chen,15,129,1935,1161,Consumer
+2024-01-12,South,Home Goods,Robot Vacuum,Mike Johnson,5,449,2245,1347,Consumer
+2024-01-14,East,Electronics,Laptop Pro,Emily Davis,3,1299,3897,2338,Business
+2024-01-15,West,Apparel,Running Shoes,James Wilson,22,89,1958,1175,Consumer
+2024-01-17,North,Home Goods,Air Purifier,Sarah Chen,7,299,2093,1256,Consumer
+2024-01-19,South,Electronics,Smartphone X,Mike Johnson,9,899,8091,4855,Business
+2024-01-21,East,Apparel,Yoga Set,Emily Davis,18,65,1170,702,Consumer
+2024-01-23,West,Electronics,Wireless Headphones,James Wilson,14,199,2786,1672,Consumer
+2024-01-25,North,Home Goods,Smart Thermostat,Sarah Chen,11,249,2739,1643,Business
+2024-01-27,South,Apparel,Winter Jacket,Mike Johnson,9,129,1161,697,Consumer
+2024-01-29,East,Electronics,Tablet Air,Emily Davis,7,599,4193,2516,Consumer
+2024-02-01,West,Home Goods,Robot Vacuum,James Wilson,6,449,2694,1616,Business
+2024-02-03,North,Electronics,Smartphone X,Sarah Chen,8,899,7192,4315,Consumer
+2024-02-05,South,Apparel,Running Shoes,Mike Johnson,25,89,2225,1335,Consumer
+2024-02-07,East,Home Goods,Air Purifier,Emily Davis,9,299,2691,1615,Consumer
+2024-02-09,West,Electronics,Laptop Pro,James Wilson,5,1299,6495,3897,Business
+2024-02-11,North,Apparel,Yoga Set,Sarah Chen,20,65,1300,780,Consumer
+2024-02-13,South,Electronics,Wireless Headphones,Mike Johnson,16,199,3184,1910,Consumer
+2024-02-15,East,Electronics,Tablet Air,Emily Davis,8,599,4792,2875,Business
+2024-02-17,West,Home Goods,Smart Thermostat,James Wilson,12,249,2988,1793,Consumer
+2024-02-19,North,Apparel,Winter Jacket,Sarah Chen,11,129,1419,851,Consumer
+2024-02-21,South,Home Goods,Robot Vacuum,Mike Johnson,7,449,3143,1886,Consumer
+2024-02-23,East,Electronics,Smartphone X,Emily Davis,10,899,8990,5394,Business
+2024-02-25,West,Apparel,Running Shoes,James Wilson,28,89,2492,1495,Consumer
+2024-02-27,North,Home Goods,Air Purifier,Sarah Chen,8,299,2392,1435,Consumer
+2024-03-01,South,Electronics,Laptop Pro,Mike Johnson,6,1299,7794,4676,Business
+2024-03-03,East,Apparel,Yoga Set,Emily Davis,24,65,1560,936,Consumer
+2024-03-05,West,Electronics,Wireless Headphones,James Wilson,18,199,3582,2149,Consumer
+2024-03-07,North,Electronics,Tablet Air,Sarah Chen,9,599,5391,3235,Consumer
+2024-03-09,South,Home Goods,Smart Thermostat,Mike Johnson,14,249,3486,2092,Business
+2024-03-11,East,Apparel,Winter Jacket,Emily Davis,13,129,1677,1006,Consumer
+2024-03-13,West,Home Goods,Robot Vacuum,James Wilson,8,449,3592,2155,Consumer
+2024-03-15,North,Electronics,Smartphone X,Sarah Chen,11,899,9889,5933,Business
+2024-03-17,South,Apparel,Running Shoes,Mike Johnson,30,89,2670,1602,Consumer
+2024-03-19,East,Home Goods,Air Purifier,Emily Davis,10,299,2990,1794,Consumer
+2024-03-21,West,Electronics,Laptop Pro,James Wilson,7,1299,9093,5456,Business
+2024-03-23,North,Apparel,Yoga Set,Sarah Chen,22,65,1430,858,Consumer
+2024-03-25,South,Electronics,Wireless Headphones,Mike Johnson,20,199,3980,2388,Consumer
+2024-03-27,East,Electronics,Tablet Air,Emily Davis,10,599,5990,3594,Business
+2024-03-29,West,Home Goods,Smart Thermostat,James Wilson,15,249,3735,2241,Consumer
+2024-03-31,North,Apparel,Winter Jacket,Sarah Chen,14,129,1806,1084,Consumer
+2024-04-02,South,Home Goods,Robot Vacuum,Mike Johnson,9,449,4041,2425,Business
+2024-04-04,East,Electronics,Smartphone X,Emily Davis,12,899,10788,6473,Consumer
+2024-04-06,West,Apparel,Running Shoes,James Wilson,32,89,2848,1709,Consumer
+2024-04-08,North,Home Goods,Air Purifier,Sarah Chen,11,299,3289,1973,Consumer
+2024-04-10,South,Electronics,Laptop Pro,Mike Johnson,8,1299,10392,6235,Business
+2024-04-12,East,Apparel,Yoga Set,Emily Davis,26,65,1690,1014,Consumer
+2024-04-14,West,Electronics,Wireless Headphones,James Wilson,22,199,4378,2627,Consumer
+2024-04-16,North,Electronics,Tablet Air,Sarah Chen,11,599,6589,3953,Business
+2024-04-18,South,Home Goods,Smart Thermostat,Mike Johnson,16,249,3984,2390,Consumer
+2024-04-20,East,Apparel,Winter Jacket,Emily Davis,15,129,1935,1161,Consumer
+2024-04-22,West,Home Goods,Robot Vacuum,James Wilson,10,449,4490,2694,Consumer
+2024-04-24,North,Electronics,Smartphone X,Sarah Chen,13,899,11687,7012,Business
+2024-04-26,South,Apparel,Running Shoes,Mike Johnson,35,89,3115,1869,Consumer
+2024-04-28,East,Home Goods,Air Purifier,Emily Davis,12,299,3588,2153,Consumer
+2024-04-30,West,Electronics,Laptop Pro,James Wilson,9,1299,11691,7015,Business
